@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsender",
+        "uuid": 15179238,
+        "checksum": "mbj8ka"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
